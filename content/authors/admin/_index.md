@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Fresh Graduate
+role: 应届毕业生
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Shandong University of Science and Technology
+  - name: 山东科技大学（青岛）
     url: https://www.sdust.edu.cn/
 
 # Social network links
@@ -47,26 +47,26 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 自动驾驶
+  - 机器人开发
+  - 嵌入式开发
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 控制科学与工程
+    institution: 山东科技大学（青岛）
+    date_start: 2022-09-01
+    date_end: 2025-06-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 自动化
+    institution: 山东科技大学（青岛）
+    date_start: 2017-09-01
+    date_end: 2021-06-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 88.79/100
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -79,40 +79,17 @@ education:
     summary: |
       GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
+      相关课程:
+      - 计算机程序设计（C语言）、自动控制原理、模拟电子技术、微机原理与接口技术、数字电子技术、单片机与嵌入式操作系统
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 专业技能
     items:
-      - name: Python
+      - name: MATLAB
         description: ''
         percent: 80
         icon: code-bracket
@@ -124,11 +101,11 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+  - name: 爱好
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: 健身
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -142,12 +119,8 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: 英语
+    percent: CET-6(490/710)
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +156,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+本人活泼开朗、 乐观向上、 适应力强、 勤奋好学、 勇于迎接新挑战； 有较强的团队协作能力， 能够服从组织及团队安排， 有较强的责任心， 做事细心严谨。 喜爱文体活动， 热爱自然科学， 荣誉感强， 能够积极参加各种活动。
